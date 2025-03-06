@@ -10,7 +10,10 @@
 [Questions](#questions)
 
 ## Description
-Full stack web app that uses Cypress testing to ensure expected user experience.
+Full stack web app that uses Cypress testing to ensure expected user experience. 
+
+Link to video:
+https://drive.google.com/file/d/15liC6YkfrtYAyuAmaBbj2aqP41r5kNAA/view?usp=sharing
 
 ## Installation
 No install necessary.
